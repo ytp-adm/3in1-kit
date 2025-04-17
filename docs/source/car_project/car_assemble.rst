@@ -47,7 +47,7 @@ Por favor, sigue los pasos a continuación para completar el ensamblaje del coch
 
     .. image:: img/IMG_9154.JPG
 
-#. Usa **tornillos M3x6mm** para montar el **espaciador M3x10mm** en la posición que se muestra a continuación.
+#. Usa **tornillos M3x6mm** para montar el **espaciador M3x12mm** en la posición que se muestra a continuación.
 
     .. image:: img/IMG_9157.JPG
 
@@ -67,7 +67,7 @@ Por favor, sigue los pasos a continuación para completar el ensamblaje del coch
 
     .. image:: img/IMG_9182.JPG
 
-#. Ensambla los dos Módulos de Obstáculos IR con **tornillos M3x10mm** y **tuercas M3**.
+#. Ensambla los dos Módulos de Obstáculos IR con **tornillos M3x12mm** y **tuercas M3**.
 
     .. image:: img/IMG_9185.JPG
 
