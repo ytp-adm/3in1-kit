@@ -47,7 +47,7 @@ Veuillez suivre les étapes ci-dessous pour terminer l'assemblage de la voiture.
 
     .. image:: img/IMG_9154.JPG
 
-#. Utilisez des **vis M3x6mm** pour monter le **support M3x10mm** à la position indiquée ci-dessous.
+#. Utilisez des **vis M3x6mm** pour monter le **support M3x12mm** à la position indiquée ci-dessous.
 
     .. image:: img/IMG_9157.JPG
 
@@ -67,7 +67,7 @@ Veuillez suivre les étapes ci-dessous pour terminer l'assemblage de la voiture.
 
     .. image:: img/IMG_9182.JPG
 
-#. Assemblez les deux modules de détection d'obstacles IR avec des **vis M3x10mm** et des **écrous M3**.
+#. Assemblez les deux modules de détection d'obstacles IR avec des **vis M3x12mm** et des **écrous M3**.
 
     .. image:: img/IMG_9185.JPG
 
