@@ -47,7 +47,7 @@ Please follow the steps below to complete the assembly of the car.
 
     .. image:: img/IMG_9154.JPG
 
-#. Use **M3x6mm screws** to mount the **M3x10mm standoff** in the position as shown below.
+#. Use **M3x6mm screws** to mount the **M3x12mm standoff** in the position as shown below.
 
     .. image:: img/IMG_9157.JPG
 
@@ -67,7 +67,7 @@ Please follow the steps below to complete the assembly of the car.
 
     .. image:: img/IMG_9182.JPG
 
-#. Assemble the two IR Obstacle Modules with **M3x10mm screws** and **M3 nuts**.
+#. Assemble the two IR Obstacle Modules with **M3x12mm screws** and **M3 nuts**.
 
     .. image:: img/IMG_9185.JPG
 
