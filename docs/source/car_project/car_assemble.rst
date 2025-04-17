@@ -46,7 +46,7 @@ Bitte befolgen Sie die untenstehenden Schritte, um den Zusammenbau des Autos abz
 
     .. image:: img/IMG_9154.JPG
 
-#. Verwenden Sie **M3x6mm Schrauben**, um den **M3x10mm Abstandshalter** wie unten gezeigt zu montieren.
+#. Verwenden Sie **M3x6mm Schrauben**, um den **M3x12mm Abstandshalter** wie unten gezeigt zu montieren.
 
     .. image:: img/IMG_9157.JPG
 
@@ -66,7 +66,7 @@ Bitte befolgen Sie die untenstehenden Schritte, um den Zusammenbau des Autos abz
 
     .. image:: img/IMG_9182.JPG
 
-#. Montieren Sie die beiden IR-Hindernismodule mit **M3x10mm Schrauben** und **M3 Muttern**.
+#. Montieren Sie die beiden IR-Hindernismodule mit **M3x12mm Schrauben** und **M3 Muttern**.
 
     .. image:: img/IMG_9185.JPG
 
