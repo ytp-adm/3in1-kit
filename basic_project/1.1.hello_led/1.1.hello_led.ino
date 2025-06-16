@@ -1,10 +1,12 @@
+#include <Arduino.h>
+
 //the number of the LED pin
 const int ledPin = 9;
 
 void setup()
 {
   //initialize the digital pin as an output
-  pinMode(ledPin,OUTPUT);
+  pinMode(ledPin, OUTPUT);
 }
 
 //the loop routine runs over and over again forever
