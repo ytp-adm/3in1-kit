@@ -16,7 +16,6 @@
 #define BLYNK_TEMPLATE_NAME "Quickstart Template"
 #define BLYNK_AUTH_TOKEN "hms-7Pe29huQvSXo3MbWjZKLaAr3aU9U"
 
-
 // Comment this out to disable prints and save space
 #define BLYNK_PRINT Serial
 
@@ -28,8 +27,9 @@ char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Buffalo-G-D4B8";
-char pass[] = "i7kt7rvea4ifb";
+// TODO: Move these to a separate config file or use WiFiManager
+char ssid[] = "YOUR_WIFI_SSID";     // Replace with your WiFi name
+char pass[] = "YOUR_WIFI_PASSWORD"; // Replace with your WiFi password
 
 // Hardware Serial on Mega, Leonardo, Micro...
 // #define EspSerial Serial1
@@ -43,21 +43,31 @@ SoftwareSerial EspSerial(2, 3); // RX, TX
 
 ESP8266 wifi(&EspSerial);
 
-
-
 void setup()
 {
   // Debug console
   Serial.begin(115200);
+  
+  // Wait for serial port to connect
+  while (!Serial) {
+    ; // wait for serial port to connect. Needed for native USB port only
+  }
+  
+  Serial.println("Starting ESP8266 connection...");
 
   // Set ESP8266 baud rate
   EspSerial.begin(ESP8266_BAUD);
   delay(10);
 
+  // Initialize Blynk
+  Serial.println("Connecting to Blynk...");
   Blynk.begin(auth, wifi, ssid, pass);
+  
   // You can also specify server:
   //Blynk.begin(auth, wifi, ssid, pass, "blynk.cloud", 80);
   //Blynk.begin(auth, wifi, ssid, pass, IPAddress(192,168,1,100), 8080);
+  
+  Serial.println("Connected to Blynk!");
 }
 
 void loop()

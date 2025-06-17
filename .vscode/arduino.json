@@ -1,6 +1,6 @@
 {
     "board": "arduino:renesas_uno:minima",
-    "sketch": "basic_project\\1.1.hello_led\\1.1.hello_led.ino",
+    "sketch": "iot_project\\1.connect\\1.connect.ino",
     "port": "COM3",
     "output": "../build"
 }
